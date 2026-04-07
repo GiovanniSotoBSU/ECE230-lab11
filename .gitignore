@@ -1,0 +1,6 @@
+.bundle/
+a.out
+dump.vcd
+*.html
+__pycache__/
+lab11/
